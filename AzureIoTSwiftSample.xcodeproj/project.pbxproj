@@ -742,7 +742,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		A1300BE827BAB491005CDD06 /* XCRemoteSwiftPackageReference "azure-sdk-for-c-swift" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/danelikethedog/azure-sdk-for-c-swift";
+			repositoryURL = "https://github.com/Azure-Samples/azure-sdk-for-c-swift";
 			requirement = {
 				branch = main;
 				kind = branch;
